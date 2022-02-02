@@ -9,10 +9,10 @@ O Projeto login foi feito para a COTEL e um projeto realizado para ajudar no dia
 ## Tecnologias
 
 <ul>
-  <li>Front-end: HTML5</li>
+  <li>Front-end</li>
   <ul>
+    <li>HTML5</li>
     <li>CSS3</li>
-    <li>JavaScript</li>
   </ul>
 </ul>
 <h1>
